@@ -4,7 +4,7 @@ A new Flutter package which is used to select integers horizontally.
 
 #Screenshots
 
-<img src="ss1.jpg" width="300em" /> <img src="sgif.gif" width="300em" />
+<img src="https://github.com/shashankgupta3891/horizontal_int_picker/blob/master/upload_media/ss1.jpg?raw=true" width="300em" /> <img src="https://github.com/shashankgupta3891/horizontal_int_picker/blob/master/upload_media/sgif.gif?raw=true" width="300em" />
 
 ## Getting Started
 
